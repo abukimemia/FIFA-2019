@@ -1,5 +1,5 @@
 <!-- Add banner here -->
-![Banner](https://github.com/abukimemia/FIFA-2019/Assets/Images/copertina_bianca_neutra_fifa_19.png)
+![Banner](/Assets/Images/copertina_bianca_neutra_fifa_19.png)
 
 <!-- Project Title -->
 # FIFA-2019
@@ -28,9 +28,9 @@ Here are a few snippets of plots generated from the fifa data:
 
 ![Player Positions Comparison](/Assets/Images/player_positions.png?raw=true)
 
-![Comparison of player skills](https://github.com/abukimemia/FIFA-2019/Assets/Images/playerskills_comparison.png)
+![Comparison of player skills](/Assets/Images/playerskills_comparison.png)
 
-![Preferred Foot Comparison](https://github.com/abukimemia/FIFA-2019/Assets/Images/preffered_foot.png)
+![Preferred Foot Comparison](/Assets/Images/preffered_foot.png)
 
-![Wage Value Difference](https://github.com/abukimemia/FIFA-2019/Assets/Images/WageValue_scatterplot.png)
+![Wage Value Difference](/Assets/Images/WageValue_scatterplot.png)
 
