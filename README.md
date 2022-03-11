@@ -26,7 +26,7 @@ The following python libraries were used in this project:
 ## Data Visualizations
 Here are a few snippets of plots generated from the fifa data:
 
-![Player Positions Comparison](https://github.com/abukimemia/FIFA-2019/Assets/Images/player_positions.png)
+![Player Positions Comparison](https://github.com/abukimemia/FIFA-2019/Assets/Images/player_positions.png?raw=true)
 
 ![Comparison of player skills](https://github.com/abukimemia/FIFA-2019/Assets/Images/playerskills_comparison.png)
 
