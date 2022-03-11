@@ -1,12 +1,12 @@
 <!-- Add banner here -->
-![Banner](https://github.com/abukimemia/FIFA-2019/Assets/copertina_bianca_neutra_fifa_19.png)
+![Banner](https://github.com/abukimemia/FIFA-2019/Assets/Images/copertina_bianca_neutra_fifa_19.png)
 
 <!-- Project Title -->
 # FIFA-2019
 Fifa Analysis with Data Science using Python
 
 <!-- Add buttons here -->
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/abukimemia/FIFA-2019?include_prereleases)
 ![GitHub last commit](https://img.shields.io/github/last-commit/abukimemia/FIFA-2019)
 ![GitHub issues](https://img.shields.io/github/issues-raw/abukimemia/FIFA-2019)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/abukimemia/FIFA-2019)
@@ -26,11 +26,11 @@ The following python libraries were used in this project:
 ## Data Visualizations
 Here are a few snippets of plots generated from the fifa data:
 
-![Player Positions Comparison](https://github.com/abukimemia/FIFA-2019/Assets/player_positions.png)
+![Player Positions Comparison](https://github.com/abukimemia/FIFA-2019/Assets/Images/player_positions.png)
 
-![Comparison of player skills](https://github.com/abukimemia/FIFA-2019/Assets/playerskills_comparison.png)
+![Comparison of player skills](https://github.com/abukimemia/FIFA-2019/Assets/Images/playerskills_comparison.png)
 
-![Preferred Foot Comparison](https://github.com/abukimemia/FIFA-2019/Assets/preffered_foot.png)
+![Preferred Foot Comparison](https://github.com/abukimemia/FIFA-2019/Assets/Images/preffered_foot.png)
 
-![Wage Value Difference](https://github.com/abukimemia/FIFA-2019/Assets/WageValue_scatterplot.png)
+![Wage Value Difference](https://github.com/abukimemia/FIFA-2019/Assets/Images/WageValue_scatterplot.png)
 
